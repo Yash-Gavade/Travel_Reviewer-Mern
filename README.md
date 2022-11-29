@@ -137,7 +137,33 @@ Then in your browser, go to **localhost:8080** where your web app is at.
 #### Deployment koi password
 #### Ss optional
 #### What features have been implemented 
+Apply Search or Filter:
+
+![image](https://user-images.githubusercontent.com/74112721/204604733-ef67e901-c309-4d00-9abd-1e8f81ee6b70.png)
+
+ADDING IMAGES:
+
+![image](https://user-images.githubusercontent.com/74112721/204604775-903c8957-174a-4e50-b936-44d42e9d184c.png)
+
+ADDING ROOMS &  ADDING RATINGS:
+
+![image](https://user-images.githubusercontent.com/74112721/204604830-f5418a58-f0ef-428f-8cab-43e4a17e5e7d.png)
+
+LOGIN, REGISTER & LOGOUT
+
+![image](https://user-images.githubusercontent.com/74112721/204604841-0ab9ec25-2b0a-4da3-81dc-309b874bdf78.png)
+
+![image](https://user-images.githubusercontent.com/74112721/204604858-12e865c7-9252-4d22-9185-81c027f74825.png)
+DASHBOARD:
+![image](https://user-images.githubusercontent.com/74112721/204604808-7af6b704-fbc4-4a5c-97a1-b905ec13a9cc.png)
+
+
 #### Future scope
-#### Anything you want to mention about project 
-#### MERN stack mention 
-#### Part of college project 
+Adding Notification
+Adding Messaging Features 
+Adding Distance Calculator
+
+
+#### More: 
+
+This is my College MERN Project 
