@@ -34,7 +34,7 @@ internet.
 
 
 ## Project Description
-Travel Reviewer  plays an important role in the travel sector business. Some most important features and importance of the travel agency business are following as:-
+Travel Reviewer  plays an important role in the travel sector business :
 
 An important link between the clients reviews.<br>
 brand Image-Builder. <br>
