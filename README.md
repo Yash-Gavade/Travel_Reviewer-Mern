@@ -32,7 +32,10 @@ Team Members:
 
 
 ## Project Description
-<p>This is the capstone project for Udacity, where I am required to build a Travel App that obtains a desired trip location & date from the user. That information will then display the weather and an image of the location using information obtained from external APIs. The APIs that I used are <a href="http://www.geonames.org/export/web-services.html">Geonames API</a>, <a href="https://www.weatherbit.io/api">Weatherbit API</a> and <a href="https://pixabay.com/api/docs/">Pixabay API</a>.</p>
+The role of an online travel Reviewer is becoming increasingly important in the
+accommodation industry as they provide a convenient way for travelers to arrange their stay.
+From the comfort of their home, travelers can compare hotel prices and book them over the
+internet. 
 
 **Features included in the App:**
 <ul>
@@ -92,51 +95,36 @@ Then in your browser, go to **localhost:8080** where your web app is at.
 
 ## Screenshots of the Travel App
 
+![image](https://user-images.githubusercontent.com/74112721/204606115-bcdb3a61-9a54-45a0-970a-2785afe853b7.png)
+
+
 <img src="https://user-images.githubusercontent.com/86360050/139248869-5e866c52-bf16-421e-baa6-5d1f687a2bb9.png" alt="travel app">
 <p align="center"><em>"The travel app when you first enter upon the site"</em></p>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/86360050/139249011-f1c04475-f532-4c5f-855e-dd4710aabec9.png" alt="modal form for add trip">
-<p align="center"><em>"The modal form, where users enter their trip destination"</em></p>
 
-<br/>
 
-<img src="https://user-images.githubusercontent.com/86360050/139249414-f83cf79b-64fc-4019-b284-09475235a405.png" alt="trip card with the current weather">
-<p align="center"><em>"The card that displays the trip: Current Weather"</em></p>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/86360050/139250254-dfac7b77-f023-4ac7-a262-fa6a132f79a7.png" alt="trip card with the forecast weather">
-<p align="center"><em>"The card that displays the trip: Forecast Weather"</em></p>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/86360050/139250909-bbeeb79a-65af-4e68-8784-6c6403d50bf0.png" alt="to do list">
-<p align="center"><em>"The to-do-list"</em></p>
-
-<br/>
-
-<p align="center"><img src="https://user-images.githubusercontent.com/86360050/139251082-320e61d3-e78e-4d2d-ad43-20fc47efaf02.png" alt="mobile view for travel app"></p>
-<p align="center"><em>"Responsive Design: Mobile View"</em></p>
-
-<br/>
-
-<p align="center"><img src="https://user-images.githubusercontent.com/86360050/139251152-2cd0178a-ca70-47d9-a877-aa1950dcc747.png" alt="mobile view for travel app with modal"></p>
-<p align="center"><em>"Responsive Design: Mobile View with Modal Form"</em></p>
+## Motivation
+![image](https://user-images.githubusercontent.com/74112721/204606026-9f55492f-6713-473d-83f6-8745459a6cdb.png)
 
 
 
+## Stack such as libraries
+# REquirements:
+![image](https://user-images.githubusercontent.com/74112721/204606184-bb5d46c5-3273-4179-a048-e91a0b7ceeb6.png)
 
-## Travel Reviewer 
-## Prblm stat
-#### Motivation
-#### Atchitectural diagram
-## Class diagram
-#### Stack such as libraries
-## Requirements: node modules ke naam 
-#### Deployment koi password
-#### Ss optional
-#### What features have been implemented 
+
+# ARCHITECTURE DIAGRAM 
+
+![image](https://user-images.githubusercontent.com/74112721/204605847-e2d0dbce-f23d-4fbc-9b28-d85c9f090194.png)
+
+# TIMELINE PROGRESS 
+
+![image](https://user-images.githubusercontent.com/74112721/204605739-a091bc24-0cc6-443a-8980-5ed205827c0d.png)
+
+
+# FEATURES :
 Apply Search or Filter:
 
 ![image](https://user-images.githubusercontent.com/74112721/204604733-ef67e901-c309-4d00-9abd-1e8f81ee6b70.png)
