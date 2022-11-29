@@ -36,12 +36,12 @@ internet.
 ## Project Description
 Travel Reviewer  plays an important role in the travel sector business. Some most important features and importance of the travel agency business are following as:-
 
-An important link between the clients and principal suppliers.<br>
-Image-Builder. <br>
+An important link between the clients reviews.<br>
+brand Image-Builder. <br>
 Ensures rapid travel services. <br>
-Provider of authentic and reliable travel information. <br>
-A social a continuous process. <br>
-Establishes a good relationship with clients and vendors. <br>
+Provider of authentic and reliable travel information from clients (users) . <br>
+A social interaction betweeen users . <br>
+
 
 # Advantages 
 Low-cost method  accommodation services <br>
