@@ -151,17 +151,17 @@ ADDING ROOMS &  ADDING RATINGS:
 
 LOGIN, REGISTER & LOGOUT
 
-![image](https://user-images.githubusercontent.com/74112721/204604841-0ab9ec25-2b0a-4da3-81dc-309b874bdf78.png)
+![image](https://user-images.githubusercontent.com/74112721/204604841-0ab9ec25-2b0a-4da3-81dc-309b874bdf78.png) <br>
 
-![image](https://user-images.githubusercontent.com/74112721/204604858-12e865c7-9252-4d22-9185-81c027f74825.png)
+![image](https://user-images.githubusercontent.com/74112721/204604858-12e865c7-9252-4d22-9185-81c027f74825.png) <br>
 DASHBOARD:
-![image](https://user-images.githubusercontent.com/74112721/204604808-7af6b704-fbc4-4a5c-97a1-b905ec13a9cc.png)
+![image](https://user-images.githubusercontent.com/74112721/204604808-7af6b704-fbc4-4a5c-97a1-b905ec13a9cc.png) <br>
 
 
 #### Future scope
-Adding Notification
-Adding Messaging Features 
-Adding Distance Calculator
+Adding Notification <br> 
+Adding Messaging Features  <br>
+Adding Distance Calculator <br>
 
 
 #### More: 
