@@ -26,16 +26,28 @@ Team Members:
 
 
 ####  Introduction: 
-
-
-# Readme:
-
-
-## Project Description
 The role of an online travel Reviewer is becoming increasingly important in the
 accommodation industry as they provide a convenient way for travelers to arrange their stay.
 From the comfort of their home, travelers can compare hotel prices and book them over the
 internet. 
+
+
+
+## Project Description
+Travel Reviewer  plays an important role in the travel sector business. Some most important features and importance of the travel agency business are following as:-
+
+An important link between the clients and principal suppliers.<br>
+Image-Builder. <br>
+Ensures rapid travel services. <br>
+Provider of authentic and reliable travel information. <br>
+A social a continuous process. <br>
+Establishes a good relationship with clients and vendors. <br>
+
+# Advantages 
+Low-cost method  accommodation services <br>
+Reduced online marketing spend <br>
+the confidence to book Users can easily compare various accommodation costs at one place Digital
+marketing packages - how to build one !  <br>
 
 **Features included in the App:**
 <ul>
