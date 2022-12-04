@@ -83,7 +83,7 @@ This project does not have the API Keys for <a href="https://www.weatherbit.io/a
 
 ````
 WEATHER_API_KEY=****************
-PIXABAY_API_KEY=*****************
+Google_API_KEY=*****************
 ````
 
 To run the project, you'll need to have NodeJS in your desktop. In the project's directory, in the terminal, you'll need to run: 
