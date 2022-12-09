@@ -109,6 +109,14 @@ Then in your browser, go to **localhost:8080** where your web app is at.
 
 ![image](https://user-images.githubusercontent.com/74112721/204606115-bcdb3a61-9a54-45a0-970a-2785afe853b7.png)
 
+# Website Loading Page
+![12](https://user-images.githubusercontent.com/74112721/206694688-9bd31b75-c107-4388-87de-a38b11d43938.png)
+
+![13](https://user-images.githubusercontent.com/74112721/206694756-82549a1c-91bd-422a-8270-1a7fd6d394b7.png)
+![14](https://user-images.githubusercontent.com/74112721/206694785-95f12d7b-2ebf-4cb3-be5e-255e1f0ddcc2.png)
+
+![15](https://user-images.githubusercontent.com/74112721/206694797-7fe566b9-42b7-46f4-ac32-ef91b07652c7.png)
+
 
 <img src="https://user-images.githubusercontent.com/86360050/139248869-5e866c52-bf16-421e-baa6-5d1f687a2bb9.png" alt="travel app">
 <p align="center"><em>"The travel app when you first enter upon the site"</em></p>
